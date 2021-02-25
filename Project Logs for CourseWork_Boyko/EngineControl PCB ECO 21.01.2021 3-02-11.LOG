@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C4 Old Footprint=CAPC3225X220N New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C6 Old Footprint=CAPC3225X220N New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=BQ1 Old Footprint=SMD0503_BQ New Footprint=OSC: 3225
+Change Component Comment : Designator=VB1 Old Comment= New Comment=MBRS190T3G
+Change Component Comment : Designator=VB2 Old Comment= New Comment=MBRS190T3G
+Change Component Comment : Designator=VB3 Old Comment= New Comment=MBRS190T3G
+Change Component Comment : Designator=C20 Old Comment=4,7לך New Comment=10לך
+Change Component Comment : Designator=C24 Old Comment=4,7לך New Comment=10לך

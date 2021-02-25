@@ -1,0 +1,37 @@
+Added Component: Designator=VT1(TO220)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/irfz14"; VariantName = "[No Variations]"
+Added Component: Designator=VT2(TO220)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/irfz14"; VariantName = "[No Variations]"
+Added Component: Designator=VT3(TO220)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/irfz14"; VariantName = "[No Variations]"
+Added Component: Designator=VT4(TO220)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/irfz14"; VariantName = "[No Variations]"
+Added Component: Designator=VT5(TO220)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/irfz14"; VariantName = "[No Variations]"
+Added Component: Designator=VT6(TO220)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/irfz14"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR14_2 Pin=VT1-1
+Added Pin To Net: NetName=VS1 Pin=VT1-2
+Added Pin To Net: NetName=+27B Pin=VT1-3
+Added Pin To Net: NetName=NetR15_2 Pin=VT2-1
+Added Pin To Net: NetName=GND Pin=VT2-2
+Added Pin To Net: NetName=VS1 Pin=VT2-3
+Added Pin To Net: NetName=NetR16_2 Pin=VT3-1
+Added Pin To Net: NetName=VS2 Pin=VT3-2
+Added Pin To Net: NetName=+27B Pin=VT3-3
+Added Pin To Net: NetName=NetR17_2 Pin=VT4-1
+Added Pin To Net: NetName=GND Pin=VT4-2
+Added Pin To Net: NetName=VS2 Pin=VT4-3
+Added Pin To Net: NetName=NetR18_2 Pin=VT5-1
+Added Pin To Net: NetName=VS3 Pin=VT5-2
+Added Pin To Net: NetName=+27B Pin=VT5-3
+Added Pin To Net: NetName=NetR19_2 Pin=VT6-1
+Added Pin To Net: NetName=GND Pin=VT6-2
+Added Pin To Net: NetName=VS3 Pin=VT6-3
+Added Member To Class: ClassName=EngineControlCircuitSCH_Boyko Member=Component VT1 IRFZ14PBF
+Added Member To Class: ClassName=EngineControlCircuitSCH_Boyko Member=Component VT2 IRFZ14PBF
+Added Member To Class: ClassName=EngineControlCircuitSCH_Boyko Member=Component VT3 IRFZ14PBF
+Added Member To Class: ClassName=EngineControlCircuitSCH_Boyko Member=Component VT4 IRFZ14PBF
+Added Member To Class: ClassName=EngineControlCircuitSCH_Boyko Member=Component VT5 IRFZ14PBF
+Added Member To Class: ClassName=EngineControlCircuitSCH_Boyko Member=Component VT6 IRFZ14PBF
+Added Room: Name=EngineControlCircuitSCH_Boyko

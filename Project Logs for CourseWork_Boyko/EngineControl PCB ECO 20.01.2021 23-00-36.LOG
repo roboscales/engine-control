@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=D_VCC Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Member From Class: ClassName=EngineControlCircuitSCH_Boyko Member=C12
+Change Component DesignItemId : Designator=C15 Old DesignItemId=Ñapacitor New DesignItemId=Ñapacitor_Pol
+Change Component Footprint: Designator=C15 Old Footprint=CAPC3225X220N New Footprint=CAP_ELEC_SIZE_G
+Change Component Comment : Designator=C5 Old Comment= New Comment=100ìê
+Change Component Comment : Designator=C15 Old Comment=100 New Comment=470ìê
+Change Component Comment : Designator=VD2 Old Comment=SS24 New Comment=1N5819
+Change Component Description : Designator=C15 Old Description=Ñapacitor New Description=Ñapacitor_Pol
+Change component parameters: Designator = "C15" ("C15"); Footprint = "CAPC3225X220N"; UniqueID = "\MYTQOKSO" ("\MYTQOKSO")
+Change component parameters (AddParameter): Name = "ValueDescription"; Value = "Êîíäåíñàòîð ïîëÿðíûé"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = " "" - "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueNote"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValuePackage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueReserve1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueReserve2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueReserve3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueReserve4"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueTKE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueTolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueTU"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueType"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueType_TU"; Value = "Êîíäåíñàòîðû  "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueValue"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueVoltage"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=EngineControlCircuitSCH_Boyko

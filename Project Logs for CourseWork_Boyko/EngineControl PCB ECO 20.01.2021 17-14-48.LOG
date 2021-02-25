@@ -1,0 +1,17 @@
+Added Component: Designator=L1(IND: 0402)
+Add component (AddParameter): Name = "ValueCurrent"; Value = "1,42 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueDescription"; Value = "Катушка индуктивности SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturer"; Value = "Epcos"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "B82477G4154M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueNote"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValuePackage"; Value = "12.8х12.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueReserve1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueReserve2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueReserve3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueReserve4"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueTU"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueType"; Value = "B82477G4154M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueValue"; Value = "150мкГн"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDA1_2 Pin=L1-1
+Added Pin To Net: NetName=D_VCC Pin=L1-2
+Added Member To Class: ClassName=EngineControlCircuitSCH_Boyko Member=Component L1 B82477G4154M

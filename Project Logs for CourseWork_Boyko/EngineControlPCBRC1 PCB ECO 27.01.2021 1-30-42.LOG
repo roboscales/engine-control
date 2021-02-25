@@ -1,0 +1,11 @@
+Change component parameters: Designator = "X4" ("X4"); Footprint = "USB-MINI"; UniqueID = "\SVGKSDNG" ("\SVGKSDNG")
+Change component parameters (AddParameter): Name = "A1TXT"; Value = "VCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "A2TXT"; Value = "DM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "A3TXT"; Value = "DP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "A4TXT"; Value = "ID"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "A5TXT"; Value = "GND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product0/9000362778"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueDescription"; Value = "Розетка 5-контактная SMD на плату"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturer"; Value = "Ningbo Xinya M&E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "USB-Mini-B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueType"; Value = "USB-Mini-B"; VariantName = "[No Variations]"

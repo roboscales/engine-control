@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PWM_H1 Pin=DD2-16
+Removed Pin From Net: NetName=PWM_H3 Pin=DD2-18
+Added Pin To Net: NetName=PWM_H3 Pin=DD2-16
+Added Pin To Net: NetName=PWM_H1 Pin=DD2-18
+Added Room: Name=EngineControlCircuitSCH_Boyko

@@ -1,0 +1,12 @@
+Added Component: Designator=C17(CAPMP7343X310N)
+Added Component: Designator=C18(CAPMP7343X310N)
+Added Component: Designator=C19(CAPMP7343X310N)
+Added Pin To Net: NetName=VB1 Pin=C17-1
+Added Pin To Net: NetName=VS1 Pin=C17-2
+Added Pin To Net: NetName=VB2 Pin=C18-1
+Added Pin To Net: NetName=VS2 Pin=C18-2
+Added Pin To Net: NetName=VB3 Pin=C19-1
+Added Pin To Net: NetName=VS3 Pin=C19-2
+Added Member To Class: ClassName=EngineControlCircuitSCH_Boyko Member=Component C17 15לך
+Added Member To Class: ClassName=EngineControlCircuitSCH_Boyko Member=Component C18 15לך
+Added Member To Class: ClassName=EngineControlCircuitSCH_Boyko Member=Component C19 15לך

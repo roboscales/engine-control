@@ -1,0 +1,53 @@
+Added Component: Designator=DA1(8-SOIC-PAD)
+Add component (AddParameter): Name = "ValueAnalog1"; Value = "1356ЕФ1У"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueAnalog2"; Value = "MC34063ADG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueDescription"; Value = "Повышающий/ понижающий преобразователь напряжения [SO8] 1,5А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "MC33063AD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValuePackage"; Value = "SO-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueType"; Value = "MC33063AD"; VariantName = "[No Variations]"
+Added Component: Designator=X3(CON: PLS-6)
+Add component (AddParameter): Name = "A1TXT"; Value = "V_targ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "A2TXT"; Value = "SWCLK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "A3TXT"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "A4TXT"; Value = "SWDIO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "A5TXT"; Value = "NRST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "A6TXT"; Value = "SWO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueDescription"; Value = "Вилка штыревая 2.54мм 1x6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturer"; Value = "Ningbo Zhenqin Electronic (Connfly Electronic)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "PLS-1x6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueType"; Value = "PLS-1x6"; VariantName = "[No Variations]"
+Added Component: Designator=X4(CON: PLS-6)
+Add component (AddParameter): Name = "A1TXT"; Value = "POV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "A2TXT"; Value = "A1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "A3TXT"; Value = "A2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "A4TXT"; Value = "A3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "A5TXT"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "A6TXT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueDescription"; Value = "Вилка штыревая 2.54мм 1x6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturer"; Value = "Ningbo Zhenqin Electronic (Connfly Electronic)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "PLS-1x6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueType"; Value = "PLS-1x6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDA1_1 Pin=DA1-1
+Added Pin To Net: NetName=NetDA1_2 Pin=DA1-2
+Added Pin To Net: NetName=NetC9_1 Pin=DA1-3
+Added Pin To Net: NetName=GND Pin=DA1-4
+Added Pin To Net: NetName=NetDA1_5 Pin=DA1-5
+Added Pin To Net: NetName=+27B Pin=DA1-6
+Added Pin To Net: NetName=NetDA1_1 Pin=DA1-7
+Added Pin To Net: NetName=NetDA1_1 Pin=DA1-8
+Added Pin To Net: NetName=+3,3B Pin=X3-1
+Added Pin To Net: NetName=SWCLK Pin=X3-2
+Added Pin To Net: NetName=GND Pin=X3-3
+Added Pin To Net: NetName=SWDIO Pin=X3-4
+Added Pin To Net: NetName=NRST Pin=X3-5
+Added Pin To Net: NetName=SWO Pin=X3-6
+Added Pin To Net: NetName=+5B Pin=X4-1
+Added Pin To Net: NetName=TIM2_CH2 Pin=X4-2
+Added Pin To Net: NetName=TIM2_CH3 Pin=X4-3
+Added Pin To Net: NetName=TIM2_CH4 Pin=X4-4
+Added Pin To Net: NetName=GND Pin=X4-5
+Added Member To Class: ClassName=EngineControlCircuitSCH_Boyko Member=Component DA1 MC33063AD
+Added Member To Class: ClassName=EngineControlCircuitSCH_Boyko Member=Component X3 PLS-1x6
+Added Member To Class: ClassName=EngineControlCircuitSCH_Boyko Member=Component X4 PLS-1x6
+Added Room: Name=EngineControlCircuitSCH_Boyko

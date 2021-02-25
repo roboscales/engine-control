@@ -1,0 +1,34 @@
+Change Component DesignItemId : Designator=C5 Old DesignItemId=—apacitor New DesignItemId=—apacitor_Pol_1
+Change Component Footprint: Designator=C5 Old Footprint=CAPC3225X220N New Footprint=WCAP-ATUL 10x12.5x5x0.6
+Change Component Comment : Designator=C5 Old Comment=100 New Comment=100ÏÍ
+Change Component Description : Designator=C5 Old Description=—apacitor New Description=—apacitor_Pol
+Change component parameters: Designator = "VD1" ("VD1"); Footprint = "LED: 0402B"; UniqueID = "\FUDCINBG" ("\FUDCINBG")
+Change component parameters (AddParameter): Name = "Color"; Value = "BLUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ColorParameter"; Value = "Green"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+150∞C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDiode"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "LED, Green, *, *, *, -55...+150∞C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAPC3225X220N"; UniqueID = "\EYOKPRLM" ("\EYOKPRLM")
+Change component parameters (AddParameter): Name = "ValueDescription"; Value = " ÓÌ‰ÂÌÒ‡ÚÓ Ú‡ÌÚ‡ÎÓ‚˚È SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturer"; Value = "TECAP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "D "D" 25¬-22ÏÍ 20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueNote"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValuePackage"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueReserve1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueReserve2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueReserve3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueReserve4"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueTKE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueTolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueTU"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueType"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueType_TU"; Value = " ÓÌ‰ÂÌÒ‡ÚÓ˚ D "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueValue"; Value = "22ÏÍ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueVoltage"; Value = "25¬"; VariantName = "[No Variations]"
+Added Room: Name=EngineControlCircuitSCH_Boyko

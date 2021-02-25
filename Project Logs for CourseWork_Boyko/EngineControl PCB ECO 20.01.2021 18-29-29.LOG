@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=L1 Old Footprint=IND: 0402 New Footprint=IND: SDR0805
+Change Component Comment : Designator=L1 Old Comment=B82477G4154M New Comment=SDR0805-221KL
+Added Room: Name=EngineControlCircuitSCH_Boyko

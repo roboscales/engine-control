@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C20 Old Footprint=WCAP-ATUL 6.3x11x2.5x0.5_90deg New Footprint=CAP: D5C2H11
+Change Component Footprint: Designator=C24 Old Footprint=WCAP-ATUL 6.3x11x2.5x0.5_90deg New Footprint=CAP: D5C2H11
+Added Room: Name=EngineControlCircuitSCH_Boyko

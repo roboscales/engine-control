@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C21 Old Footprint=CAPMP7343X310N New Footprint=CAPMP3216X180N
+Change Component Footprint: Designator=C23 Old Footprint=CAPMP7343X310N New Footprint=CAPMP3216X180N
+Added Room: Name=EngineControlCircuitSCH_Boyko

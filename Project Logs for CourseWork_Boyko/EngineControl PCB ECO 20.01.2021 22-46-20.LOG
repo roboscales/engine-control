@@ -1,0 +1,21 @@
+Change Component DesignItemId : Designator= Old DesignItemId=Сapacitor_Pol_1 New DesignItemId=Сapacitor_Pol
+Change Component Footprint: Designator= Old Footprint=WCAP-ATUL 10x12.5x5x0.6 New Footprint=CAP: SMD D6.3A6.6H7.7
+Change Component Comment : Designator= Old Comment=100мк New Comment=
+Change Component Designator: OldDesignator= NewDesignator=C5
+Change component parameters: Designator = "" ("C5"); Footprint = "WCAP-ATUL 10x12.5x5x0.6"; UniqueID = "\EYOKPRLM" ("\EYOKPRLM")
+Change component parameters (AddParameter): Name = "ValueDescription"; Value = "Конденсатор полярный"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = " "" - "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueNote"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValuePackage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueReserve1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueReserve2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueReserve3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueReserve4"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueTKE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueTolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueTU"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueType"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueType_TU"; Value = "Конденсаторы  "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueValue"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueVoltage"; Value = ""; VariantName = "[No Variations]"

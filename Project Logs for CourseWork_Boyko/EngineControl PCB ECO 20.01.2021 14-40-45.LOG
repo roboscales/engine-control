@@ -1,0 +1,16 @@
+Added Component: Designator=VB1(DIODE: SMB)
+Add component (AddParameter): Name = "ValueType"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VB2(DIODE: SMB)
+Add component (AddParameter): Name = "ValueType"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VB3(DIODE: SMB)
+Add component (AddParameter): Name = "ValueType"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D_VCC Pin=VB1-1
+Added Pin To Net: NetName=VB1 Pin=VB1-2
+Added Pin To Net: NetName=D_VCC Pin=VB2-1
+Added Pin To Net: NetName=VB2 Pin=VB2-2
+Added Pin To Net: NetName=D_VCC Pin=VB3-1
+Added Pin To Net: NetName=VB3 Pin=VB3-2
+Added Member To Class: ClassName=EngineControlCircuitSCH_Boyko Member=Component VB1
+Added Member To Class: ClassName=EngineControlCircuitSCH_Boyko Member=Component VB2
+Added Member To Class: ClassName=EngineControlCircuitSCH_Boyko Member=Component VB3
+Added Room: Name=EngineControlCircuitSCH_Boyko
